@@ -8,5 +8,6 @@
   <description>并发编程学习</description>
   <modules>
   	<module>study_1_thread_basic</module>
+  	<module>study_2_thread_tools</module>
   </modules>
 </project>
