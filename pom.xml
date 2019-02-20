@@ -9,5 +9,6 @@
   <modules>
   	<module>study_1_thread_basic</module>
   	<module>study_2_thread_tools</module>
+  	<module>study_3_thread_cas</module>
   </modules>
 </project>
